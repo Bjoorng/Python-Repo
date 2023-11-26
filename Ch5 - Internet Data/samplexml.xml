@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<person>
+  <firstname>Luca</firstname>
+  <lastname>Sernicola</lastname>
+  <home>Cremona</home>
+  <skill name="JavaScript"/>
+  <skill name="Python (still learning)"/>
+  <skill name="Bootstrap"/>
+  <skill name="Sass"/>
+  <skill name="AngularJs"/>
+  <skill name="Java"/>
+  <skill name="Springboot"/>
+  <skill name="HTML"/>
+</person>
