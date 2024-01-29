@@ -1,0 +1,3 @@
+First basic python file interaction test
+New line for the text file
+Second addition to the text file
